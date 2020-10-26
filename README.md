@@ -13,5 +13,5 @@ $ npm i
 #then run the following command to start server locally
 $ gulp start-dev
 
-#testing server with apollo playground on browser https://localhost:8000/flydevs
+
 
